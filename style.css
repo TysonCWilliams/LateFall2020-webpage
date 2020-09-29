@@ -1,0 +1,22 @@
+body{
+  background-color: black;
+  color: white;
+}
+
+header{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  border-top-style: solid;
+  border-width: 20px;
+  border-color: cadetblue;
+  margin: 40px
+  }
+
+#why{
+  text-align: center
+}
+
+
